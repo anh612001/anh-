@@ -5,7 +5,7 @@ Một trang web đáp ứng hiển thị các sách có sẵn trong cửa hàng 
 <p>
   <kbd><img src="screenshot1.png" width="350" height="450"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/screenshot2.png" width="350" height="450"/></kbd>
+  <kbd><img src="screenshot/screenshot2.png" width="750" height="450"/></kbd>
 </p>
 
 <p>
