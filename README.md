@@ -3,21 +3,21 @@ Một trang web đáp ứng hiển thị các sách có sẵn trong cửa hàng 
 
 ## Screenshots:
 <p>
-  <kbd><img src="screenshot/screenshot1.png" width="750" height="450"/></kbd>
+  <kbd><img src="screenshot1.png" width="750" height="450"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/screenshot2.png" width="750" height="450"/></kbd>
+  <kbd><img src="screenshot2.png" width="750" height="450"/></kbd>
 </p>
 
 <p>
-  <kbd><img src="screenshot/screenshot3.png" width="750" height="450"/></kbd>
+  <kbd><img src="screenshot3.png" width="750" height="450"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/screenshot4.png" width="750" height="450"/></kbd>
+  <kbd><img src="screenshot4.png" width="750" height="450"/></kbd>
 </p>
 
 <p>
   <kbd><img src="screenshot/screenshot5.png" width="750" height="450"/></kbd>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <kbd><img src="screenshot/screenshot6.png" width="750" height="450"/></kbd>
+  <kbd><img src="screenshot6.png" width="750" height="450"/></kbd>
 </p>
 
 ## Setup:
@@ -26,7 +26,7 @@ Một trang web đáp ứng hiển thị các sách có sẵn trong cửa hàng 
 * Go to Xampp control panel and start apache and MySQL.
 * Import the database bookstore.sql in MySql server.
 * Set up the connection credentials in connect.inc </br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/screenshot7.png" width="300" height="100"/></kbd>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot7.png" width="300" height="100"/></kbd>
 * Thats it. Open <a href="http://localhost/ADMVBook/">localhost/bookstore/</a> in your browser
 
 ## Website Link :
